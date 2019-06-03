@@ -1,2 +1,2 @@
-# Java
-Meus apps Java
+# Java-TCC
+Aplicativo Java WebSQL para controle de TCCs.
